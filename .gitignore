@@ -35,3 +35,10 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+#sanity
+sanitynewblog/node_modules
+sanitynewblog/coverage
+sanitynewblog/dist
+sanitynewblog/logs
+sanitynewblog/*.log
